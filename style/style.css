@@ -6,6 +6,6 @@ div {
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     text-shadow: 10px 10px 5px rgba(56, 85, 143, 0.114);
 }
