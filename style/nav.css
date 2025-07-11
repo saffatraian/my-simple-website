@@ -3,7 +3,7 @@ nav ul {
     font-family: Arial, sans-serif;
 }
 nav ul li {
-    text-decoration-color: rgb(48, 70, 110);
+    text-decoration-color: #1a3d63;
     list-style: none;
     padding: 0 5px;
     margin: 0px 10px 20px 10px;
@@ -11,12 +11,12 @@ nav ul li {
 nav ul li a {
     padding: 0 5px;
     text-decoration: none;
-    color: rgb(48, 70, 110);
+    color: #1a3d63;
     font-weight: bold;
 }
 nav ul li a:hover {
     padding: 0 5px;
     border-radius: 5px;
-    border: 2px solid rgb(198, 213, 239);
-    background-color: rgb(238, 244, 253);
+    border: 2px solid #f6fafd;
+    background-color: #f6fafd;
 }
